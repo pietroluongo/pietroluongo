@@ -1,12 +1,10 @@
 ## Hello there! 👋
 
-I'm Gabriel, currently an undergraduate on Computer Engineering at UFES.
+I'm Gabriel, currently a Computer Engineer working as a fullstack developer.
 
 - 🔭 Currently working with React, Go and Embedded Systems integration. I really enjoy writing tools in general!
-- 🧑‍💼 Working at Vem! Eventos as a frontend developer with React.
-- 🛸 Project lead at [ERUS](https://github.com/erufes/) - UFES's robotics team. We're cooking up multiple cool new projects 😁
-- 🌱 Currently learning Electron and Rust.
-- 😄 Pronouns: He/Him.
+- 🧑‍💼 Working at Vem! Eventos as a fullstack developer with React + Go.
+- 📖 More info at [my website](https://pietroluongo.com).
 
 ### Technologies I'm familiar with:
 
